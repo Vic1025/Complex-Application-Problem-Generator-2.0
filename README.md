@@ -3,6 +3,7 @@
 A scalable, programmatic pipeline for synthesizing hierarchically structured mathematical word problems with controllable complexity. Built on and extending the Physics of Language Models (Part 2.1) framework, with significant advances to support multi-level entity hierarchies, long reasoning chains (5–30+ steps), and diverse logical relationships.
 
 ---
+Patent No: CN20688502A
 
 ## Motivation
 
